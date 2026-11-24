@@ -1,0 +1,6 @@
+{
+  "name": "Motion Studio",
+  "description": "Mobile video and photo motion editor with live filters, customizable text overlays, and clip timeline management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
